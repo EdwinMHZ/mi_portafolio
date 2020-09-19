@@ -1,0 +1,61 @@
+body{
+    /*background: linear-gradient(to bottom,#000C40,#F0F2F0);*/
+    background: linear-gradient(to bottom,#003973,#e5e5be);
+    color:white;
+}
+
+.nombre{
+    font-family: 'Raleway', sans-serif;
+}
+.contacto{
+    font-family: 'Playfair Display', serif;
+}
+.infoContacto{
+    word-wrap: break-word;
+}
+.titulo{
+    font-family: 'Playfair Display', serif;
+}
+
+.subtitulo{
+    font-family: 'Lobster', cursive;
+}
+
+.texto{
+    font-family: 'Old Standard TT', serif;
+}
+.formacion{
+    font-family: 'Frank Ruhl Libre', serif;
+}
+.fotoPerfil{
+    border-radius: 15px;
+}
+
+.iconoHTML{
+    color: #FF8000;
+}
+.iconoCSS{
+    color: #003EFF;
+}
+.iconoJS{
+    color: #F6FF42;
+}
+.iconoPHP{
+    color: blueviolet;
+}
+.iconoBS{
+    color: #9E00FF;
+}
+.card{
+    background-color: #030C26;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.75);
+}
+
+.img-hobbie{
+    height: 200px;
+    width: 400px;
+    border-radius: 40px;
+}
