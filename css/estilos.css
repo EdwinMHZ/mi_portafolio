@@ -31,10 +31,10 @@ body{
     border-radius: 15px;
 }
 
-.iconoHTML{
+.iconoHTML, .iconoGIT{
     color: #FF8000;
 }
-.iconoCSS{
+.iconoCSS,.iconoReact{
     color: #003EFF;
 }
 .iconoJS{
@@ -45,6 +45,9 @@ body{
 }
 .iconoBS{
     color: #9E00FF;
+}
+.iconoLaravel{
+    color: #ff002b;
 }
 .card{
     background-color: #030C26;
